@@ -10,5 +10,5 @@ flutter build apk --target-platform=android-arm64
 flutter build apk --split-per-abi
 
 ### Destino
-build/app/outputs/apk/release/app-armeabi.apk
-build/app/outputs/apk/release/app-arm64.apk
+-build/app/outputs/apk/release/app-armeabi.apk
+-build/app/outputs/apk/release/app-arm64.apk
